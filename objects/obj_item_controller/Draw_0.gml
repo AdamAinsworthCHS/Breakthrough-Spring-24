@@ -1,0 +1,1 @@
+draw_text(320, 8,"Use <- -> to select an item. Space to confirm.")

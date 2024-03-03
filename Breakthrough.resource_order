@@ -1,0 +1,23 @@
+{
+  "FolderOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"Sprite8","order":16,"path":"sprites/Sprite8/Sprite8.yy",},
+    {"name":"rm_level_1","order":2,"path":"rooms/rm_level_1/rm_level_1.yy",},
+    {"name":"rm_level_2","order":1,"path":"rooms/rm_level_2/rm_level_2.yy",},
+    {"name":"spr_bat","order":2,"path":"sprites/spr_bat/spr_bat.yy",},
+    {"name":"obj_item_description_loader","order":8,"path":"objects/obj_item_description_loader/obj_item_description_loader.yy",},
+    {"name":"spr_selecter","order":5,"path":"sprites/spr_selecter/spr_selecter.yy",},
+    {"name":"obj_bat","order":2,"path":"objects/obj_bat/obj_bat.yy",},
+    {"name":"spr_powers","order":3,"path":"sprites/spr_powers/spr_powers.yy",},
+    {"name":"obj_ball","order":1,"path":"objects/obj_ball/obj_ball.yy",},
+    {"name":"obj_selecter","order":7,"path":"objects/obj_selecter/obj_selecter.yy",},
+    {"name":"spr_items","order":4,"path":"sprites/spr_items/spr_items.yy",},
+    {"name":"obj_powers","order":4,"path":"objects/obj_powers/obj_powers.yy",},
+    {"name":"Sprite6","order":15,"path":"sprites/Sprite6/Sprite6.yy",},
+    {"name":"obj_item_controller","order":6,"path":"objects/obj_item_controller/obj_item_controller.yy",},
+    {"name":"fnt_items","order":1,"path":"fonts/fnt_items/fnt_items.yy",},
+    {"name":"obj_control","order":3,"path":"objects/obj_control/obj_control.yy",},
+    {"name":"obj_items","order":5,"path":"objects/obj_items/obj_items.yy",},
+    {"name":"spr_ball","order":1,"path":"sprites/spr_ball/spr_ball.yy",},
+  ],
+}
