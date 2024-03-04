@@ -1,5 +1,8 @@
 go = false;
 spd = 3
+image_index = 0;
+image_speed = 0;
+bomb = false
 
 spiked_ball_number = ds_list_find_index(global.items, "Spiked Ball")
 if (spiked_ball_number != -1){

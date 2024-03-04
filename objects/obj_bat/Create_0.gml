@@ -4,10 +4,12 @@ paddle_extension_number = ds_list_find_index(global.items, "Paddle Extension")
 if (paddle_extension_number != -1){
 	size_checker = ds_list_create()
 	ds_list_add(size_checker, paddle_extension_number)
-	image_xscale = ((ds_list_size(size_checker) /2) + 1)
+	global.previous_xscale = ((ds_list_size(size_checker) /2) + 1)
 } else {
-	image_xscale = 1
+	global.previous_xscale = 1
 }
+
+image_xscale = global.previous_xscale
 
 multi_ball_number = ds_list_find_index(global.items, "Multiball")
 if (multi_ball_number != -1){

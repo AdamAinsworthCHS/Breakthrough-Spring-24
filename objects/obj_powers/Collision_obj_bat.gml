@@ -1,4 +1,4 @@
-//audio_play_sound(snd_PowerUp, 1, false); 
+audio_play_sound(snd_PowerUp, 1, false); 
 
 if(image_index == 0){
 	with (obj_bat){
@@ -8,7 +8,8 @@ if(image_index == 0){
 	}
 } else {
 	with(obj_ball){
-	speed = spd;
+	bomb = true
+	alarm[0] = 5*room_speed;
 	}
 }
 
