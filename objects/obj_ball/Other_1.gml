@@ -20,6 +20,8 @@ if(bbox_bottom > room_height){
 			global.high_score = global.player_score
 		}
 	} else {
-		instance_create_layer(xstart, ystart, "Instances", obj_ball);
+		repeat (global.multi_ball_amount){
+			instance_create_layer(xstart, ystart, "Instances", obj_ball);
+		}
 	}
 }

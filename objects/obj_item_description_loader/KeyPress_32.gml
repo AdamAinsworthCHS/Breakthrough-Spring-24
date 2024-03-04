@@ -10,7 +10,7 @@ if (description_text = 0){
 } else if(description_text = 3){
 	ds_list_add(global.items, "Fast Ball")
 } else if(description_text = 4){
-	ds_list_add(global.items, "Multi Ball")
+	ds_list_add(global.items, "Multiball")
 }
 
 room_goto_next()

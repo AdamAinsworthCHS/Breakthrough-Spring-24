@@ -1,1 +1,1 @@
-image_xscale = 1;
+image_xscale = global.previous_xscale;

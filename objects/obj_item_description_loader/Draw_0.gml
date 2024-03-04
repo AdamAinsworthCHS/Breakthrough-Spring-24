@@ -9,10 +9,10 @@ if (description_text = 0){
 	draw_text(320, 130,"Makes your paddle wider")
 } else if(description_text = 2){
 	draw_text(320, 100,"Snail Ball")
-	draw_text(320, 130,"Slows the ball's acceleration rate")
+	draw_text(320, 130,"Speeds up the ball less when it hits a brick")
 } else if(description_text = 3){
 	draw_text(320, 100,"Fast Ball")
-	draw_text(320, 130,"Speeds up the ball's acceleration rate")
+	draw_text(320, 130,"Speeds up the ball more when it hits a brick")
 } else if(description_text = 4){
 	draw_text(320, 100,"Multiball")
 	draw_text(320, 130,"Start each level with an extra ball")
