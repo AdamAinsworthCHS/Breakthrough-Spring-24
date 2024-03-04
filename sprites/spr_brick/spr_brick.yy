@@ -14,6 +14,8 @@
   "For3D": false,
   "frames": [
     {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"93297ea8-3769-4a1b-9d85-2af8a03f25d8",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"b45845a4-d9b7-426e-ace6-6e6a3772a86f",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"7e0cdaff-5556-4f58-9a3d-4799e8d57360",},
   ],
   "gridX": 0,
   "gridY": 0,
@@ -43,7 +45,7 @@
     "events": {"resourceType":"KeyframeStore<MessageEventKeyframe>","resourceVersion":"1.0","Keyframes":[],},
     "eventStubScript": null,
     "eventToFunction": {},
-    "length": 1.0,
+    "length": 3.0,
     "lockOrigin": false,
     "moments": {"resourceType":"KeyframeStore<MomentsEventKeyframe>","resourceVersion":"1.0","Keyframes":[],},
     "playback": 1,
@@ -55,6 +57,8 @@
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
             {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"93297ea8-3769-4a1b-9d85-2af8a03f25d8","path":"sprites/spr_brick/spr_brick.yy",},},},"Disabled":false,"id":"43ad91dc-75d8-4d60-b25b-ce2cbb612c85","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"b45845a4-d9b7-426e-ace6-6e6a3772a86f","path":"sprites/spr_brick/spr_brick.yy",},},},"Disabled":false,"id":"07be283b-04ce-4d46-9c98-59b80cfa5ff7","IsCreationKey":false,"Key":1.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"7e0cdaff-5556-4f58-9a3d-4799e8d57360","path":"sprites/spr_brick/spr_brick.yy",},},},"Disabled":false,"id":"f5e4c73d-a9ea-4b4c-86f5-99c2be7cbe9a","IsCreationKey":false,"Key":2.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,

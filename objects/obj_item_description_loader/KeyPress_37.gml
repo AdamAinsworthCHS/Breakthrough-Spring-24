@@ -1,5 +1,5 @@
-if (position = 2){
-	position = 0
+if (position = 0){
+	position = 2
 } else {
-	position = position + 1
+	position = position - 1
 }
