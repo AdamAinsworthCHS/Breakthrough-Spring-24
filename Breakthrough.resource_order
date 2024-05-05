@@ -7,6 +7,7 @@
     {"name":"obj_explosion","order":10,"path":"objects/obj_explosion/obj_explosion.yy",},
     {"name":"snd_PowerUp","order":3,"path":"sounds/snd_PowerUp/snd_PowerUp.yy",},
     {"name":"spr_explosion","order":6,"path":"sprites/spr_explosion/spr_explosion.yy",},
+    {"name":"obj_test_object","order":13,"path":"objects/obj_test_object/obj_test_object.yy",},
     {"name":"obj_title","order":9,"path":"objects/obj_title/obj_title.yy",},
     {"name":"rm_level_2","order":1,"path":"rooms/rm_level_2/rm_level_2.yy",},
     {"name":"obj_game_over","order":11,"path":"objects/obj_game_over/obj_game_over.yy",},
